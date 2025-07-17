@@ -28,8 +28,6 @@ El contenido de esta semana se organiza en las siguientes secciones:
     *   Características clave de Python que lo hacen ideal para la Ciencia de Datos.
     *   Conceptos fundamentales de programación en Python (tipos de datos, estructuras de control, funciones, manejo de errores).
     *   Una visión general del ecosistema de librerías para Ciencia de Datos.
-
-*   `CANVAS UIDE`:
     *   Introducción a librerías más avanzadas de Python para el modelado de datos como Scikit-Learn, Keras, TensorFlow y PyTorch. (Nota: Estas librerías se abordarán en profundidad en futuras semanas o asignaturas, su mención aquí es a modo introductorio).
 
 ### 💻 Cuadernos de Jupyter (Notebooks)
