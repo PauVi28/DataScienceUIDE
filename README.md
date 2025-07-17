@@ -23,13 +23,13 @@ El contenido de esta semana se organiza en las siguientes secciones:
 
 ### 📄 Materiales Teóricos (PDFs)
 
-*   `theoretical_materials/Python_sus_librerias_fundamentales.pdf`:
+*   `CANVAS UIDE`:
     *   Una introducción a Python como lenguaje de programación.
     *   Características clave de Python que lo hacen ideal para la Ciencia de Datos.
     *   Conceptos fundamentales de programación en Python (tipos de datos, estructuras de control, funciones, manejo de errores).
     *   Una visión general del ecosistema de librerías para Ciencia de Datos.
 
-*   `theoretical_materials/Librerias_avanzadas_Python.pdf`:
+*   `CANVAS UIDE`:
     *   Introducción a librerías más avanzadas de Python para el modelado de datos como Scikit-Learn, Keras, TensorFlow y PyTorch. (Nota: Estas librerías se abordarán en profundidad en futuras semanas o asignaturas, su mención aquí es a modo introductorio).
 
 ### 💻 Cuadernos de Jupyter (Notebooks)
@@ -56,7 +56,6 @@ Los cuadernos proporcionan ejemplos prácticos y ejercicios que complementan la 
 
 ### 📝 Evaluación y Retroalimentación
 
-*   `assessments/Cuestionario_Conceptos_Semana1.md`:
     *   Un cuestionario de 30 preguntas de opción múltiple diseñado para evaluar la comprensión de los conceptos y aplicaciones prácticas abordadas en los materiales de la semana, incluyendo retroalimentación detallada para cada opción.
 
 ---
@@ -67,10 +66,9 @@ Para replicar y trabajar con este material, sigue los siguientes pasos:
 
 1.  **Clonar el Repositorio:**
     ```bash
-    git clone https://github.com/TuUsuario/NombreDelRepositorio.git
+    git clone https://github.com/PauVi28/DataScienceUIDE.git
     cd NombreDelRepositorio
     ```
-    (Reemplaza `TuUsuario/NombreDelRepositorio` con la ruta real de tu repositorio.)
 
 2.  **Crear un Entorno Virtual (Recomendado):**
     ```bash
