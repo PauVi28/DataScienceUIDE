@@ -1,5 +1,3 @@
-# 🏛️ Máster en Ciencia de Datos y Máquinas de Aprendizaje con mención Inteligencia Artificial
-## Asignatura: Arquitectura, Modelado y Gestión de Datos en Data Science
 
 ### Semana 1: Fundamentos de Python para la Ciencia de Datos
 
