@@ -29,8 +29,8 @@ Desarrollar competencias técnicas en el uso de Python para acceder, explorar y 
 
 ## 📁 Archivos del Estudiante
 
-- `Sesion2_1_Acceso_Lectura_Datos_Detallado.ipynb`  
-- `Sesion2_2_Transformacion_APIs_Ejercicios_Extra.ipynb`
+- `Sesion2_1_Acceso_Lectura_Datos.ipynb`  
+- `Sesion2_2_Transformacion_APIs.ipynb`
 
 ## 📊 Datasets utilizados
 
