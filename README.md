@@ -110,7 +110,7 @@ Este proyecto utiliza las siguientes versiones y librerías clave de Python:
 
 ## 👨‍🏫👩‍🏫 Autor
 
-*   **Iván Reyes & Paulina Vizcaino** (Adaptado y complementado para fines educativos)
+*   **Paulina Vizcaino** (Adaptado y complementado para fines educativos)
 
 ---
 
