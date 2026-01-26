@@ -1,112 +1,94 @@
-# 🏛️ Máster en Ciencia de Datos y Máquinas de Aprendizaje con mención Inteligencia Artificial
-## Asignatura: Arquitectura, Modelado y Gestión de Datos en Data Science
+# Arquitectura, Modelado y Gestión de Datos en Data Science 📊
 
-### Semana 1: Fundamentos de Python para la Ciencia de Datos
+![UIDE Logo](https://www.uide.edu.ec/wp-content/uploads/2020/09/logo-uide-digital.png)
 
----
-
-## 🎯 Resultado de Aprendizaje de la Semana
-
-Al finalizar esta semana, el estudiante desarrollará habilidades y competencias para ser un experto en el uso de librerías Python en procesos de análisis exploratorio, limpieza, procesamiento e ingeniería de datos.
+**Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial**  
+*Universidad Internacional del Ecuador (UIDE) - Powered by Arizona State University*
 
 ---
 
-## 📖 Descripción General
+## 📋 Información General
 
-Este repositorio contiene los materiales teóricos, los cuadernos de Jupyter con ejercicios resueltos y un ejercicio práctico para la primera semana de la asignatura "Arquitectura, Modelado y Gestión de Datos en Data Science" del Máster en Ciencia de Datos y Machine Learning. El enfoque principal de esta semana es establecer una sólida base en Python y sus librerías fundamentales (NumPy, Pandas, Matplotlib, Seaborn) para la manipulación, el análisis exploratorio y la preparación de datos.
+- **Docente:** PhD. Paulina Vizcaino
+- **Cohorte:** Nov 2025 – Nov 2026
+- **Horario:** Viernes 18:00 - 20:00 | Sábado 08:00 - 12:00
 
----
+## 📖 Descripción del Curso
 
-## 📚 Contenido del Repositorio
+Esta asignatura introduce los conceptos fundamentales para el ciclo de vida de los datos en proyectos de Data Science e Inteligencia Artificial. Nos enfocaremos en la limpieza, manipulación, gestión, arquitectura y modelado de datos utilizando **Python** como lenguaje principal.
 
-El contenido de esta semana se organiza en las siguientes secciones:
+Exploraremos desde librerías básicas para visualización hasta herramientas especializadas para ingeniería de características (feature engineering), eliminación de outliers y modelamiento predictivo básico (regresión y clasificación).
 
-### 📄 Materiales Teóricos (PDFs)
-
-*   `CANVAS UIDE`:
-    *   Una introducción a Python como lenguaje de programación.
-    *   Características clave de Python que lo hacen ideal para la Ciencia de Datos.
-    *   Conceptos fundamentales de programación en Python (tipos de datos, estructuras de control, funciones, manejo de errores).
-    *   Una visión general del ecosistema de librerías para Ciencia de Datos.
-    *   Introducción a librerías más avanzadas de Python para el modelado de datos como Scikit-Learn, Keras, TensorFlow y PyTorch. (Nota: Estas librerías se abordarán en profundidad en futuras semanas o asignaturas, su mención aquí es a modo introductorio).
-
-### 💻 Cuadernos de Jupyter (Notebooks)
-
-Los cuadernos proporcionan ejemplos prácticos y ejercicios que complementan la teoría:
-
-*   `notebooks/Sesion1_Intro_Python_Maestria.ipynb`:
-    *   **Introducción interactiva a Python:** Cubre los fundamentos del lenguaje, incluyendo variables, tipos de datos (listas, diccionarios), estructuras de control (bucles, condicionales), funciones y manejo básico de errores.
-    *   **Exploración de IPython:** Demuestra cómo utilizar las características interactivas de IPython (ej. `?` para documentación, `??` para código fuente) para explorar librerías.
-
-*   `notebooks/Sesion2_Librerias_Python_DS_Maestria.ipynb`:
-    *   **NumPy:** Operaciones vectorizadas y estadísticas con arrays multidimensionales, manipulación de la forma de los arrays (`reshape`) y concatenación (`np.concatenate`, `np.vstack`, `np.hstack`).
-    *   **Pandas:** Creación y manipulación de DataFrames y Series, limpieza de datos (gestión de nulos, tipos de datos), agrupación (`groupby`, `agg`) y aplicación de transformaciones (`apply`). Incluye ejemplos de indexación explícita (`.loc`, `.iloc`) y combinación de DataFrames (`pd.concat`).
-    *   **Matplotlib y Seaborn:** Creación de visualizaciones básicas (histogramas, barras, dispersión) con ambos estilos (estilo MATLAB y orientado a objetos), personalización de gráficos y guardado de figuras (`plt.savefig()`).
-    *   **Caso práctico con el dataset Titanic:** Aplicación de los conceptos de Pandas y visualización para un análisis exploratorio de datos.
-
-*   `notebooks/Solucion_Analisis_Transacciones_Ecommerce.ipynb`:
-    *   **Solución al ejercicio autónomo de la semana:** Un ejemplo práctico de Análisis Exploratorio de Datos (EDA) de un dataset de transacciones de e-commerce (simulado). Incluye pasos detallados para:
-        *   Carga y exploración inicial de datos.
-        *   Limpieza y preprocesamiento de datos (manejo de nulos, tipos incorrectos, outliers, estandarización de texto).
-        *   Ingeniería básica de características (cálculo de nuevas columnas).
-        *   Análisis y agregación de datos para obtener insights.
-        *   Visualización de datos clave utilizando Matplotlib y Seaborn.
-
-### 📝 Evaluación y Retroalimentación
-
-    *   Un cuestionario de 30 preguntas de opción múltiple diseñado para evaluar la comprensión de los conceptos y aplicaciones prácticas abordadas en los materiales de la semana, incluyendo retroalimentación detallada para cada opción.
+### 🎯 Resultados de Aprendizaje
+Al finalizar el curso, el estudiante estará en capacidad de:
+1.  **Desarrollar habilidades expertas** en el ecosistema de librerías de Python (NumPy, Pandas, Matplotlib, etc.).
+2.  **Integrar y gestionar datos** de diversas fuentes (APIs, Webservices, Bases de Datos SQL/NoSQL) y formatos.
+3.  **Ejecutar procesos de Ingeniería de Datos**, incluyendo análisis exploratorio (EDA), limpieza y pre-procesamiento avanzado.
+4.  **Modelar datos** utilizando algoritmos básicos de ML, definiendo métricas de evaluación adecuadas.
 
 ---
 
-## 🚀 Cómo Empezar
+## 📂 Estructura del Repositorio
 
-Para replicar y trabajar con este material, sigue los siguientes pasos:
+El contenido se organiza semanalmente según las unidades curriculares:
 
-1.  **Clonar el Repositorio:**
-    ```bash
-    git clone https://github.com/PauVi28/DataScienceUIDE.git
-    cd NombreDelRepositorio
-    ```
+### [Semana 1: Aplicaciones Python y Librerías Fundamentales](./Semana_01)
+*   **Temas:** Introducción a Python para Data Science, uso de librerías básicas.
+*   **Práctica:** Exploración y visualización de datos.
+*   **Herramientas:** Jupyter Notebooks, Colab.
 
-2.  **Crear un Entorno Virtual (Recomendado):**
-    ```bash
-    python -m venv venv
-    # En Windows:
-    .\venv\Scripts\activate
-    # En macOS/Linux:
-    source venv/bin/activate
-    ```
+### [Semana 2: Manipulación y Análisis de Datos](./Semana_02)
+*   **Temas:** Herramientas de manipulación, formatos de ficheros (CSV, JSON), persistencia en Bases de Datos (SQL vs NoSQL).
+*   **Práctica:** Manejo de BDD y scripting para ETL básico.
 
-3.  **Instalar Dependencias:**
-    Instala las librerías necesarias utilizando `pip` y el archivo `requirements.txt` proporcionado:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4.  **Ejecutar Jupyter Notebook/Lab:**
-    Inicia la interfaz de Jupyter para abrir y ejecutar los cuadernos:
-    ```bash
-    jupyter notebook
-    # o si prefieres Jupyter Lab:
-    jupyter lab
-    ```
-    Esto abrirá una nueva pestaña en tu navegador con el árbol de archivos. Navega a la carpeta `notebooks/` para abrir los cuadernos.
+### [Semana 3: Procesamiento y Preparación de Datos](./Semana_03)
+*   **Temas:** Limpieza profunda, detección de fugas de datos (data leakage), tratamiento de valores atípicos (outliers) y valores faltantes.
+*   **Práctica:** Pipeline completo de preparación y procesamiento de datos.
 
 ---
 
-## 🛠️ Herramientas y Librerías
+## 🛠️ Stack Tecnológico
 
-Este proyecto utiliza las siguientes versiones y librerías clave de Python:
+Utilizaremos las siguientes herramientas y librerías:
 
-*   Python 3.x
-*   `pandas`
-*   `numpy`
-*   `matplotlib`
-*   `seaborn`
-*   `datetime` (módulo estándar de Python)
-*   `random` (módulo estándar de Python)
+*   **Lenguaje:** Python 3.x
+*   **Entorno:** Google Colab / Jupyter Lab
+*   **Librerías Core:**
+    *   `numpy` & `pandas` (Manipulación)
+    *   `matplotlib` & `seaborn` (Visualización)
+    *   `scikit-learn` (Modelado y Pre-procesamiento)
+    *   `sqlalchemy` / Drivers SQL (Conexión a Bases de Datos)
 
 ---
+
+## ⚖️ Sistema de Evaluación
+
+La calificación se distribuye de la siguiente manera durante las 3 semanas de duración del módulo:
+
+| Actividad | Semana 1 | Semana 2 | Semana 3 | Entrega Final |
+| :--- | :---: | :---: | :---: | :---: |
+| **Test Teoría** | 20 ptos | 20 ptos | 20 ptos | - |
+| **Tendencias** | 10 ptos | 10 ptos | 10 ptos | - |
+| **Comp. Práctico** | 40 ptos | 40 ptos | 40 ptos | - |
+| **Test Validador** | 30 ptos | 30 ptos | 30 ptos | - |
+| **Proyecto Final** | - | - | - | **100% (40% Grupal / 60% Indiv.)** |
+
+---
+
+## 📚 Bibliografía y Recursos
+
+### Básica
+*   *Bowers, A. J. (2019).* Top 30 Python Libraries for Machine Learning.
+*   *Bisong, E. (2019).* Building Machine Learning and Deep Learning Models on Google Cloud Platform.
+*   *Chen, D. Y. (2017).* Pandas for Everyone: Python Data Analysis.
+*   *VanderPlas, J. (2016).* Python Data Science Handbook. [Ver Online](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+### Complementaria
+*   Documentación oficial de [Pandas](https://pandas.pydata.org/), [Scikit-Learn](https://scikit-learn.org/) y [Matplotlib](https://matplotlib.org/).
+*   Dataset sources: [Kaggle](https://www.kaggle.com/).
+
+---
+*Este repositorio contiene material académico para uso exclusivo de la Maestría en CD y ML de la UIDE.*
 
 ## 👨‍🏫👩‍🏫 Autor
 
