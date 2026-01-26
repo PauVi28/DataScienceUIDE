@@ -1,6 +1,6 @@
 
-### Semana 1: Fundamentos de Python para la Ciencia de Datos
-
+### Semana 1: Fundamentos de Python para la Ciencia de Datos 
+## Fecha: 30 y 31 de enero de 2026
 ---
 
 ## 🎯 Resultado de Aprendizaje de la Semana
