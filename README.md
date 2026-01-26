@@ -29,16 +29,16 @@ Al finalizar el curso, el estudiante estará en capacidad de:
 
 El contenido se organiza semanalmente según las unidades curriculares:
 
-### [Semana 1: Aplicaciones Python y Librerías Fundamentales](./Semana_01)
+### [Semana 1: Aplicaciones Python y Librerías Fundamentales](./Week1)
 *   **Temas:** Introducción a Python para Data Science, uso de librerías básicas.
 *   **Práctica:** Exploración y visualización de datos.
 *   **Herramientas:** Jupyter Notebooks, Colab.
 
-### [Semana 2: Manipulación y Análisis de Datos](./Semana_02)
+### [Semana 2: Manipulación y Análisis de Datos](./Week2)
 *   **Temas:** Herramientas de manipulación, formatos de ficheros (CSV, JSON), persistencia en Bases de Datos (SQL vs NoSQL).
 *   **Práctica:** Manejo de BDD y scripting para ETL básico.
 
-### [Semana 3: Procesamiento y Preparación de Datos](./Semana_03)
+### [Semana 3: Procesamiento y Preparación de Datos](./Week3)
 *   **Temas:** Limpieza profunda, detección de fugas de datos (data leakage), tratamiento de valores atípicos (outliers) y valores faltantes.
 *   **Práctica:** Pipeline completo de preparación y procesamiento de datos.
 
