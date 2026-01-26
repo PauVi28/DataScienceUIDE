@@ -1,7 +1,4 @@
 # Arquitectura, Modelado y Gestión de Datos en Data Science 📊
-
-![UIDE Logo](https://www.uide.edu.ec/wp-content/uploads/2020/09/logo-uide-digital.png)
-
 **Maestría en Ciencia de Datos y Máquinas de Aprendizaje con mención en Inteligencia Artificial**  
 *Universidad Internacional del Ecuador (UIDE) - Powered by Arizona State University*
 
